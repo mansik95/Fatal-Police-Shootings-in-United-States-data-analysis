@@ -1,6 +1,6 @@
-## Fatal-Police-Shootings-in-United-States-data-analysis
+# Fatal-Police-Shootings-in-United-States-data-analysis
 
-# About the data
+## About the data
 
 race:
 W: White, non-Hispanic
